@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+@media (max-width: 768px){
+    
+}
+
 body{
     background-color: rgb(10, 45, 66);
     color: white;
@@ -145,7 +149,7 @@ main hr{
     border: 0;
     background: rgb(55, 161, 222);
     height: 4px;
-    margin-left: 109px;
+    margin-left: 71px;
     margin-right: 200px;
     margin-top: 50px;
 }
